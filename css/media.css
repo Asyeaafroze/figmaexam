@@ -1,0 +1,705 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+     /*header start*/
+     header {
+        padding-top: 20px;
+    }
+   .menu ul li a {
+    font-size: 16px;
+    padding-bottom: 0;
+     }
+   .btn_c{
+    width: 90px;
+    height: 43px;
+    font-size: 15px;
+    margin-left: 15px;
+   }
+     /*hero start*/
+     .hero {
+        padding: 45px 0 50px;
+    }
+     .h_content {
+        padding-top: 0px;
+    }
+    .h_1{
+        text-align: center;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .h_p {
+        text-align: center;
+        font-size: 16px;     
+        line-height: 25px;     
+         margin: 25px 0;
+    }
+    .btn_h {
+        margin-left: 80px;
+        width: 135px;
+        height: 45px;
+    }
+     .h_img{
+        padding: 20px 20px 20px;
+     }
+       /*service start*/
+ .service {
+    padding: 40px 0 55px;
+    background-color:#F1FAFC;
+}
+ 
+ .s_item {
+    margin: 15px 0;
+}
+ .s_h5 { 
+    font-size: 18px;
+    line-height: 25px;}
+ .s_h3 {
+    padding: 0 0px;
+    font-size: 21px;
+line-height: 30px;}
+  
+    .s_img {
+        padding: 40px 80px 0px;
+    }
+   
+    .s_p {
+        font-size: 16px;
+        padding: 0px 45px;
+    }
+    
+    /*ABOUT US START*/
+       .aboutus {
+        padding: 40px 0 65px;
+    }
+  .a_content {
+    padding: 0px 0 0;
+    text-align: center;
+}  
+.a_p {
+    
+    font-size: 16px;
+        margin: 20px 0 30px;
+        line-height: 24.03px;
+        
+}
+.a_img {
+    padding: 0 40px;
+}
+.a_h5 {
+    margin-top: 15px;
+font-size: 18px;
+}
+ .a_h3 {
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 20px;
+}
+     
+    .a_btn {
+        padding: 10px 15px;}
+
+        /*doctor start*/
+        .doctor {
+            background-color: #F1FAFC ;
+            padding: 40px 0 55px;
+        }
+        .d_h3 {
+            padding: 5px 0px 0px;
+            font-size: 21px;
+        }
+    
+    .d_img {
+        margin-top: 25px;
+    }
+    .dr_img {
+        padding: 5px 0px 10px;
+    }
+      .d_h6 {
+          font-size: 18px;}
+          .in_content {
+            background-color:#ffffff;}
+       
+  
+        
+  
+ 
+    /*testimonial start*/
+    .testimonial {
+        padding: 40px 0 55px;
+    }
+    .t_h5 {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 35px;}
+         
+        .t_border {
+            margin-top: 35px;
+            width: 299px !important;
+            height: 410px !important;
+            padding: 10px 10px 0;
+        }
+        .t_p {
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 21.92px;}
+            
+            .t_h3 {
+                padding: 5px 0px 0px;
+                font-size: 21px;
+                line-height: 32px;
+            }
+    /*contact us*/ 
+    .col-6 {
+        flex: 1 0 auto;}
+        .offset-9 {
+            margin-left: 27%;
+        }
+    .c_h3 {
+        padding: 35px 0px 15px;
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 26px;
+    }
+    .c_h6 {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 20.08px;
+    }
+    .c_btn {
+        padding: 0px 30px;
+    }
+        .cc_btn {
+            margin-top: 24px;
+            margin-bottom: 45px;
+        }
+ /*footer start*/
+ footer {
+    padding: 10px 0 45px;
+    background:#ffffff;
+}
+.f_logo {
+    height: 50px;
+    width: 100px;
+    margin: 25px 0 15px;
+}
+.f_content {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26.38px;
+}
+.m_h6 {
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 40px;
+}
+
+ 
+    .f_menu {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 11.08px;
+        letter-spacing: 0.05em;
+        text-align: center;
+        color: #000000;
+    }
+    .input_c {
+        margin: 30px 0 0;
+    }
+
+    .in_h6 {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 35px;
+        letter-spacing: 0.05em;
+        text-align: left;
+        color: #000000;
+    }
+    .f_in {
+        padding: 0px 0px;
+        margin-top: 5px;
+        font-size: 12px;
+        background-color: #494949;
+        color: #ffffff;
+        font-weight: 600;
+        line-height: 35px;
+        letter-spacing: 0.05em;
+        text-align: left;
+    }
+
+    .f_btn {
+        padding: 5px 15px;
+        margin-top: 10px;
+    }
+}
+
+
+
+     
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+     /*header start*/
+     header {
+        padding-top: 20px;
+    }
+   .menu ul li a {
+    font-size: 16px;
+    padding-bottom: 0;
+     }
+   .btn_c{
+    width: 90px;
+    height: 43px;
+    font-size: 15px;
+    margin-left: 15px;
+   }
+    /*hero start*/
+    
+.hero {
+    padding-top: 50px;
+}
+    .h_content {
+        padding-top: 10px;
+    }
+    .h_1 {
+        text-align: center;
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .h_p {
+        text-align: center;
+        font-size: 18px;     
+        line-height: 30px;     
+         margin: 25px 0;
+    }
+    .btn_h {
+        margin-left: 170px;
+        width: 155px;
+        height: 50px;
+    }
+     .h_img{
+        padding: 25px 50px 50px;
+     }
+      /*service start*/
+ .service {
+    padding: 75px 0 65px;
+    background-color: #F1FAFC;
+}
+ 
+ .s_item {
+    margin: 15px 0;
+}
+ .s_h5 { 
+    font-size: 20px;
+    line-height: 45px;}
+ .s_h3 {
+    padding: 0 0px;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 36px;}
+  
+    .s_img {
+        padding: 40px 150px 0px;
+    }
+   
+    .s_p {
+        padding: 0px 110px;
+    }
+     /*ABOUT US START*/
+     .aboutus {
+        padding: 75px 0 65px;
+    }
+  .a_content {
+    padding: 0px 0 0;
+    text-align: center;
+}  
+.a_p {
+    
+    font-size: 16px;
+    margin: 30px 0 50px;
+    line-height: 30.03px;    
+}
+.a_img {
+    padding: 0 105px;
+}
+.a_h5 {
+    margin-top: 25px;
+font-size: 18px;
+}
+ .a_h3 {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 25px;
+}
+    .a_p {
+         
+        margin: 25px 0 35px;
+        line-height: 28.03px;
+    }
+
+    .a_btn {
+        padding: 12px 20px;}
+    /*doctor start*/
+    .doctor {
+        padding: 60px 0 55px;
+    }
+    .d_h3 {
+        padding: 5px 50px 0px;
+        font-size: 25px;
+    } 
+    .d_img {
+        margin-top: 35px;
+    }
+     .dr_img {
+          padding: 5px 5px 10px;
+      } 
+      .d_h6 {
+          font-size: 16px;}
+    
+  
+        
+  
+ 
+    /*testimonial start*/
+    .testimonial {
+        padding: 60px 0 65px;
+    }
+    .t_h5 {
+        font-size: 20px;
+        font-weight: 600;
+        line-height:40px;}
+         
+        .t_border {
+            margin-top: 35px;
+            width: 533px !important;
+            height: 562px !important;}
+    .t_h3 {
+        padding: 5px 50px 0px;
+        font-size: 25px;
+        line-height: 40px;}
+
+   /*contact us*/ 
+   .col-6 {
+    flex: 1 0 auto;}
+    .offset-9 {
+        margin-left: 34%;
+    }
+.c_h3 {
+    padding: 35px 0px 15px;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 26px;
+}
+.c_h6 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20.08px;
+}
+.c_btn {
+    padding: 0px 35px;
+}
+    .cc_btn {
+        margin-top: 37px;
+        margin-bottom: 53px;
+    }
+ /*footer start*/
+ .f_logo {
+    height: 50px;
+    width: 100px;
+    margin: 40px 0 20px;
+}
+.f_content {
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26.38px;
+}
+.m_h6 {
+    font-size: 18px;
+    line-height: 18px;
+}
+
+ 
+    .f_menu {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 23.08px;
+        letter-spacing: 0.05em;
+        text-align: center;
+        color: #000000;
+    }
+    .input_c {
+        margin: 50px 0 0;
+    }
+
+    .f_in {
+        padding: 0px 0px;
+        margin-top: 16px;
+        line-height: 35px;
+        font-size: 13px;
+        padding: 0px 17px; }
+
+        .f_btn {
+            padding: 5px 25px;
+            margin-top: 21px;
+        }     
+    
+ 
+}
+     
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){ 
+   /*header start*/
+   header {
+    padding-top: 20px;
+}
+   .menu ul li a {
+    font-size: 16px;
+    padding-bottom: 0;
+     }
+   .btn_c{
+    width: 90px;
+    height: 43px;
+    font-size: 15px;
+    margin-left: 15px;
+   }
+    /*hero start*/
+    
+.hero {
+    padding-top: 55px;
+}
+   .h_content {
+    padding-top: 20px !important;
+  }
+.h_1{
+     font-size: 38px;
+    text-align: center;
+}
+.h_p {
+    text-align: center;
+    margin: 25px 0;
+}
+.btn_h {
+     margin-left: 255px;
+     width: 160px;
+}
+ .h_img{
+    padding: 10px 60px 60px;
+ }
+ /*service start*/
+ .service {
+    padding: 75px 0 65px;
+    background-color: #F1FAFC;
+}
+ .s_item {
+    margin: 15px 0;
+}
+ .s_h5 
+ { line-height: 45px;}
+ .s_h3 {
+    padding: 0 0px;
+    font-size: 30px;}
+ .s_img { 
+        padding: 55px 220px 0px;
+    }
+    .s_p {
+        padding: 0 185px;
+    }
+    /*ABOUT US START*/
+    .aboutus {
+        padding: 75px 0 65px;
+    }
+  .a_content {
+    padding: 0px 0 0;
+    text-align: center;
+}  
+.a_p {
+    
+    font-size: 16px;
+    margin: 30px 0 50px;
+    line-height: 30.03px;    
+}
+.a_img {
+    padding: 0 120px;
+}
+.a_h5 {
+    margin-top: 25px;}
+ .a_h3 {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;}
+    .a_p {
+         
+        margin: 25px 0 40px;
+        line-height: 28.03px;
+    }
+
+ /*doctor start*/
+ .doctor {
+    padding: 70px 0 65px;}
+  .d_h3 {
+      padding: 9px 80px 0px;
+      font-size: 30px;} 
+   .dr_img {
+        padding: 15px;
+    } 
+    .d_h6 {
+        font-size: 18px;
+     }  
+  
+    /*testimonial start*/
+    .t_h3 {
+        padding: 5px 130px 24px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .t_border{
+        margin-top: 30px; 
+    width: 700px !important;
+    height: 592px!important; }
+     
+
+    /*contact us*/ 
+    .c_h3 {
+        padding: 45px 0px 20px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 40px;} 
+        .c_btn {
+            
+            padding: 3px 45px;
+        }  
+ /*footer start*/
+ .f_content {
+    margin-bottom: 22px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29.38px;}
+
+    .m_h6 {       
+        font-size: 18px;
+        line-height: 40px;
+}
+.in_h6 {
+    font-size: 14px;
+    
+    line-height: 40px;}
+
+    .f_in {
+        padding: 0px 0px;
+        margin-top: 15px;
+        font-size: 13px;}
+
+        .f_btn {
+            padding: 10px 30px;
+            margin-top: 21px;}
+}
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+    /*hero start*/
+    .hero{
+        padding-bottom: 65px;}
+    .h_content {
+        padding-top: 120px;
+    }
+    
+    .h_1 {
+        font-size: 42px;
+    }
+    .h_p {
+        font-size: 18px;
+        line-height: 30px;
+        margin: 25px,0 !important;}
+         
+
+/*service start*/
+
+.s_img {
+    padding: 60px 50px 0px;
+}
+.s_p {
+    padding: 0px 5px;}
+       .s_h3 {
+        padding: 0px 0px;
+        font-size: 33px;}
+        
+  /*ABOUT US START*/
+  .a_content {
+    padding: 0px 0 0;
+}  
+.a_p {
+    
+    font-size: 16px;
+    margin: 30px 0 50px;
+    line-height: 30.03px;    
+}
+
+/*doctor start*/
+.d_h3 {
+       padding: 10px 235px 0px;}
+
+    .dr_img {
+        padding: 5px; }  
+        .d_icon{ 
+            margin: 10px 0px 10px;}
+
+  .d_h6 {
+    font-size: 14px;
+font-weight: 800;}          
+            
+/*testimonial start*/
+.t_border { 
+    width: 445px;
+    height: 510px;}
+   .t_h3 {
+        padding: 0px 135px 45px;}
+ 
+ /*contactus start*/ 
+ .c_h3 {
+    padding: 46px 0px 25px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px; }  
+    
+    .cc_btn {
+        margin-bottom: 40px;
+    }
+
+
+.c_btn {
+    background-color: #0099FF;
+    color: #ffffff;
+    padding: 0px 50px;
+}
+/*footer start*/
+.f_in {
+    padding: 0px 0px;}
+}
+
+    
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width:1399.98){
+.hero{
+padding-bottom: 65px;}
+.t_border{
+    width: 632px;
+       height: 592px;}
+}
+
+
+ 
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+    .hero {
+        padding-bottom: 65px;}
+        .t_border{
+            width: 632px;
+               height: 592px;}
+}
+
+   
